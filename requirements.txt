@@ -1,0 +1,13 @@
+quart 
+aiohttp
+aiodns
+bs4 
+requests
+matplotlib
+user_agent
+nltk
+iexfinance
+pandas
+asyncio
+flask-sqlalchemy
+
